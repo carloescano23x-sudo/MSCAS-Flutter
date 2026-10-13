@@ -1,0 +1,19 @@
+# Flutter static analysis configuration for MSCAS.
+#
+# flutter_lints provides the recommended lint rules for Flutter projects.
+# It is included as a development dependency in pubspec.yaml.
+
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
+    - web/**
+    - windows/**
+    - macos/**
+    - linux/**
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Add project-specific lint overrides here when needed.

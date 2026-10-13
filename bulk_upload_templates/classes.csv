@@ -1,0 +1,2 @@
+subject_code,subject_name,section,schedule_day,start_time,end_time,room,semester,instructor_email
+IT101,Sample Subject,4A,Monday,08:00,09:30,Lab 1,1st Semester,instructor@example.edu

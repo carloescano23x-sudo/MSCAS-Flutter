@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971917628821",
+    "firebase_url": "https://mscas-attendance-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mscas-attendance",
+    "storage_bucket": "mscas-attendance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971917628821:android:7c1cee46d5dab42d7fd29c",
+        "android_client_info": {
+          "package_name": "com.mscas.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971917628821-5eeiqijrj9dlml51an14qjchp4gkvivm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnWaPK_mJbyDvq_UuON1g09_-DFbt55H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971917628821-5eeiqijrj9dlml51an14qjchp4gkvivm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

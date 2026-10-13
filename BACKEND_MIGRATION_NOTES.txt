@@ -1,0 +1,6 @@
+MSCAS backend target: Supabase
+
+Firebase runtime dependencies and Firebase hosting/rules configuration were removed from this migrated testing package.
+The legacy class names FirebaseService/FirebaseFirestore/FirebaseAuth remain only as internal compatibility facades so the existing screens did not need a risky full UI rewrite; they now call Supabase, not Firebase.
+
+Existing Firestore production/test records are not copied automatically. Use fresh Supabase QA data or perform a controlled data migration before production.
